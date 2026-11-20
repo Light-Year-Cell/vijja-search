@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="939" height="370" viewBox="0 0 939 370" font-family="-apple-system,PingFang SC,Hiragino Sans GB,Microsoft YaHei,sans-serif">
+<rect width="100%" height="100%" fill="#fbfaf6"/>
+<path d="M283.4,151.9 C306.4,151.9 306.4,53.8 329.4,53.8" fill="none" stroke="#e05a47" stroke-width="3" opacity=".8"/>
+<path d="M283.4,151.9 C306.4,151.9 306.4,113.2 329.4,113.2" fill="none" stroke="#e39a2d" stroke-width="3" opacity=".8"/>
+<path d="M283.4,151.9 C306.4,151.9 306.4,250.1 329.4,250.1" fill="none" stroke="#3f9b5b" stroke-width="3" opacity=".8"/>
+<path d="M555.4,113.2 C578.4,113.2 578.4,136.9 601.4,136.9" fill="none" stroke="#e39a2d" stroke-width="1.6" opacity=".8"/>
+<path d="M519.6,250.1 C542.6,250.1 542.6,198.1 565.6,198.1" fill="none" stroke="#3f9b5b" stroke-width="1.6" opacity=".8"/>
+<path d="M519.6,250.1 C542.6,250.1 542.6,259.2 565.6,259.2" fill="none" stroke="#3f9b5b" stroke-width="1.6" opacity=".8"/>
+<path d="M519.6,250.1 C542.6,250.1 542.6,298.9 565.6,298.9" fill="none" stroke="#3f9b5b" stroke-width="1.6" opacity=".8"/>
+<path d="M519.6,250.1 C542.6,250.1 542.6,338.5 565.6,338.5" fill="none" stroke="#3f9b5b" stroke-width="1.6" opacity=".8"/>
+<rect x="30" y="105.8" width="253.4" height="92.2" rx="14" fill="#3f8f5a"/>
+<text x="48.0" y="142.8" font-size="26" font-weight="700" fill="#fff">156讲-摄集4-想颠</text>
+<text x="48.0" y="177.9" font-size="26" font-weight="700" fill="#fff">倒趣颠倒</text>
+<rect x="329.4" y="30.0" width="207.0" height="47.7" rx="8" fill="#fff" stroke="#e05a47" stroke-width="2.2"/>
+<text x="347.4" y="60.0" font-size="19" font-weight="700" fill="#2b2a27">一、人是怎么来的？</text>
+<rect x="329.4" y="89.4" width="226.0" height="47.7" rx="8" fill="#fff" stroke="#e39a2d" stroke-width="2.2"/>
+<text x="347.4" y="119.4" font-size="19" font-weight="700" fill="#2b2a27">二、从想颠倒到趣颠倒</text>
+<line x1="601.4" y1="136.9" x2="879.4" y2="136.9" stroke="#e39a2d" stroke-width="1.6" opacity=".8"/>
+<text x="604.4" y="106.7" font-size="16" font-weight="500" fill="#2b2a27">（一）三颠倒：想颠倒、心颠倒、见颠</text>
+<text x="604.4" y="128.2" font-size="16" font-weight="500" fill="#2b2a27">倒</text>
+<rect x="329.4" y="226.2" width="190.3" height="47.7" rx="8" fill="#fff" stroke="#3f9b5b" stroke-width="2.2"/>
+<text x="347.4" y="256.2" font-size="19" font-weight="700" fill="#2b2a27">一、二、三、四……</text>
+<line x1="565.6" y1="198.1" x2="843.6" y2="198.1" stroke="#3f9b5b" stroke-width="1.6" opacity=".8"/>
+<text x="568.6" y="167.9" font-size="16" font-weight="500" fill="#2b2a27">（二）三虚妄思：渴爱虚妄思、骄慢虚</text>
+<text x="568.6" y="189.5" font-size="16" font-weight="500" fill="#2b2a27">妄思、见虚妄思</text>
+<line x1="565.6" y1="259.2" x2="843.6" y2="259.2" stroke="#3f9b5b" stroke-width="1.6" opacity=".8"/>
+<text x="568.6" y="229.1" font-size="16" font-weight="500" fill="#2b2a27">（三）两种殊胜居：渴爱殊胜居、见殊</text>
+<text x="568.6" y="250.7" font-size="16" font-weight="500" fill="#2b2a27">胜居</text>
+<line x1="565.6" y1="298.9" x2="795.6" y2="298.9" stroke="#3f9b5b" stroke-width="1.6" opacity=".8"/>
+<text x="568.6" y="290.2" font-size="16" font-weight="500" fill="#2b2a27">（四）两种趣：凡夫趣、圣者趣</text>
+<line x1="565.6" y1="338.5" x2="795.6" y2="338.5" stroke="#3f9b5b" stroke-width="1.6" opacity=".8"/>
+<text x="568.6" y="329.9" font-size="16" font-weight="500" fill="#2b2a27">（五）两种谛：世俗谛、胜义谛</text>
+</svg>

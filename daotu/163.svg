@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="997" height="727" viewBox="0 0 997 727" font-family="-apple-system,PingFang SC,Hiragino Sans GB,Microsoft YaHei,sans-serif">
+<rect width="100%" height="100%" fill="#fbfaf6"/>
+<path d="M297.9,379.6 C320.9,379.6 320.9,143.8 343.9,143.8" fill="none" stroke="#e05a47" stroke-width="3" opacity=".8"/>
+<path d="M297.9,379.6 C320.9,379.6 320.9,318.4 343.9,318.4" fill="none" stroke="#e39a2d" stroke-width="3" opacity=".8"/>
+<path d="M297.9,379.6 C320.9,379.6 320.9,392.2 343.9,392.2" fill="none" stroke="#3f9b5b" stroke-width="3" opacity=".8"/>
+<path d="M297.9,379.6 C320.9,379.6 320.9,480.4 343.9,480.4" fill="none" stroke="#2f86c4" stroke-width="3" opacity=".8"/>
+<path d="M297.9,379.6 C320.9,379.6 320.9,615.5 343.9,615.5" fill="none" stroke="#7a5cc4" stroke-width="3" opacity=".8"/>
+<path d="M493.9,143.8 C516.9,143.8 516.9,57.6 539.9,57.6" fill="none" stroke="#e05a47" stroke-width="1.6" opacity=".8"/>
+<path d="M493.9,143.8 C516.9,143.8 516.9,97.2 539.9,97.2" fill="none" stroke="#e05a47" stroke-width="1.6" opacity=".8"/>
+<path d="M493.9,143.8 C516.9,143.8 516.9,136.8 539.9,136.8" fill="none" stroke="#e05a47" stroke-width="1.6" opacity=".8"/>
+<path d="M493.9,143.8 C516.9,143.8 516.9,176.4 539.9,176.4" fill="none" stroke="#e05a47" stroke-width="1.6" opacity=".8"/>
+<path d="M493.9,143.8 C516.9,143.8 516.9,216.0 539.9,216.0" fill="none" stroke="#e05a47" stroke-width="1.6" opacity=".8"/>
+<path d="M493.9,143.8 C516.9,143.8 516.9,255.6 539.9,255.6" fill="none" stroke="#e05a47" stroke-width="1.6" opacity=".8"/>
+<path d="M626.9,318.4 C649.9,318.4 649.9,316.8 672.9,316.8" fill="none" stroke="#e39a2d" stroke-width="1.6" opacity=".8"/>
+<path d="M626.9,318.4 C649.9,318.4 649.9,356.4 672.9,356.4" fill="none" stroke="#e39a2d" stroke-width="1.6" opacity=".8"/>
+<path d="M474.9,480.4 C497.9,480.4 497.9,453.6 520.9,453.6" fill="none" stroke="#2f86c4" stroke-width="1.6" opacity=".8"/>
+<path d="M474.9,480.4 C497.9,480.4 497.9,493.2 520.9,493.2" fill="none" stroke="#2f86c4" stroke-width="1.6" opacity=".8"/>
+<path d="M474.9,480.4 C497.9,480.4 497.9,532.9 520.9,532.9" fill="none" stroke="#2f86c4" stroke-width="1.6" opacity=".8"/>
+<path d="M512.9,615.5 C535.9,615.5 535.9,572.5 558.9,572.5" fill="none" stroke="#7a5cc4" stroke-width="1.6" opacity=".8"/>
+<path d="M512.9,615.5 C535.9,615.5 535.9,633.7 558.9,633.7" fill="none" stroke="#7a5cc4" stroke-width="1.6" opacity=".8"/>
+<path d="M512.9,615.5 C535.9,615.5 535.9,694.9 558.9,694.9" fill="none" stroke="#7a5cc4" stroke-width="1.6" opacity=".8"/>
+<rect x="30" y="333.5" width="267.9" height="92.2" rx="14" fill="#3f8f5a"/>
+<text x="48.0" y="370.5" font-size="26" font-weight="700" fill="#fff">163讲-摄集11-二十</text>
+<text x="48.0" y="405.6" font-size="26" font-weight="700" fill="#fff">二根1</text>
+<rect x="343.9" y="120.0" width="150.0" height="47.7" rx="8" fill="#fff" stroke="#e05a47" stroke-width="2.2"/>
+<text x="361.9" y="150.0" font-size="19" font-weight="700" fill="#2b2a27">一、二十二根</text>
+<line x1="539.9" y1="57.6" x2="657.9" y2="57.6" stroke="#e05a47" stroke-width="1.6" opacity=".8"/>
+<text x="542.9" y="49.0" font-size="16" font-weight="500" fill="#2b2a27">（一）根的定义</text>
+<line x1="539.9" y1="97.2" x2="705.9" y2="97.2" stroke="#e05a47" stroke-width="1.6" opacity=".8"/>
+<text x="542.9" y="88.6" font-size="16" font-weight="500" fill="#2b2a27">（二）清净根和五受根</text>
+<line x1="539.9" y1="136.8" x2="721.9" y2="136.8" stroke="#e05a47" stroke-width="1.6" opacity=".8"/>
+<text x="542.9" y="128.2" font-size="16" font-weight="500" fill="#2b2a27">（三）眼耳鼻舌身意六根</text>
+<line x1="539.9" y1="176.4" x2="689.9" y2="176.4" stroke="#e05a47" stroke-width="1.6" opacity=".8"/>
+<text x="542.9" y="167.8" font-size="16" font-weight="500" fill="#2b2a27">（四）命根、七色根</text>
+<line x1="539.9" y1="216.0" x2="657.9" y2="216.0" stroke="#e05a47" stroke-width="1.6" opacity=".8"/>
+<text x="542.9" y="207.4" font-size="16" font-weight="500" fill="#2b2a27">（五）男女性根</text>
+<line x1="539.9" y1="255.6" x2="801.9" y2="255.6" stroke="#e05a47" stroke-width="1.6" opacity=".8"/>
+<text x="542.9" y="247.0" font-size="16" font-weight="500" fill="#2b2a27">（六）未知当知根、已知根和具知根</text>
+<rect x="343.9" y="294.6" width="283.0" height="47.7" rx="8" fill="#fff" stroke="#e39a2d" stroke-width="2.2"/>
+<text x="361.9" y="324.6" font-size="19" font-weight="700" fill="#2b2a27">二、影响五根质量好坏的因素</text>
+<line x1="672.9" y1="316.8" x2="936.8" y2="316.8" stroke="#e39a2d" stroke-width="1.6" opacity=".8"/>
+<text x="675.9" y="286.6" font-size="16" font-weight="500" fill="#2b2a27">(一)结生时相应心所的素质决定着五</text>
+<text x="675.9" y="308.2" font-size="16" font-weight="500" fill="#2b2a27">根质量</text>
+<line x1="672.9" y1="356.4" x2="872.8" y2="356.4" stroke="#e39a2d" stroke-width="1.6" opacity=".8"/>
+<text x="675.9" y="347.8" font-size="16" font-weight="500" fill="#2b2a27">（二）“四食”对五根的影响</text>
+<rect x="343.9" y="368.4" width="112.0" height="47.7" rx="8" fill="#fff" stroke="#3f9b5b" stroke-width="2.2"/>
+<text x="361.9" y="398.4" font-size="19" font-weight="700" fill="#2b2a27">三、性根</text>
+<rect x="343.9" y="456.6" width="131.0" height="47.7" rx="8" fill="#fff" stroke="#2f86c4" stroke-width="2.2"/>
+<text x="361.9" y="486.6" font-size="19" font-weight="700" fill="#2b2a27">四、命根色</text>
+<line x1="520.9" y1="453.6" x2="702.9" y2="453.6" stroke="#2f86c4" stroke-width="1.6" opacity=".8"/>
+<text x="523.9" y="445.0" font-size="16" font-weight="500" fill="#2b2a27">（一）命根色的两大作用</text>
+<line x1="520.9" y1="493.2" x2="702.9" y2="493.2" stroke="#2f86c4" stroke-width="1.6" opacity=".8"/>
+<text x="523.9" y="484.6" font-size="16" font-weight="500" fill="#2b2a27">（二）命根和寿命的关系</text>
+<line x1="520.9" y1="532.9" x2="734.9" y2="532.9" stroke="#2f86c4" stroke-width="1.6" opacity=".8"/>
+<text x="523.9" y="524.2" font-size="16" font-weight="500" fill="#2b2a27">（三）造作善行可以改变命运</text>
+<rect x="343.9" y="591.6" width="169.0" height="47.7" rx="8" fill="#fff" stroke="#7a5cc4" stroke-width="2.2"/>
+<text x="361.9" y="621.6" font-size="19" font-weight="700" fill="#2b2a27">五、十五种名根</text>
+<line x1="558.9" y1="572.5" x2="740.9" y2="572.5" stroke="#7a5cc4" stroke-width="1.6" opacity=".8"/>
+<text x="561.9" y="563.9" font-size="16" font-weight="500" fill="#2b2a27">（一）心识成为根的原因</text>
+<line x1="558.9" y1="633.7" x2="836.9" y2="633.7" stroke="#7a5cc4" stroke-width="1.6" opacity=".8"/>
+<text x="561.9" y="603.5" font-size="16" font-weight="500" fill="#2b2a27">（二）训练心拥有良善的素质和强健的</text>
+<text x="561.9" y="625.1" font-size="16" font-weight="500" fill="#2b2a27">能力</text>
+<line x1="558.9" y1="694.9" x2="822.8" y2="694.9" stroke="#7a5cc4" stroke-width="1.6" opacity=".8"/>
+<text x="561.9" y="664.7" font-size="16" font-weight="500" fill="#2b2a27">（三）触缘受——受源于两种机制的影</text>
+<text x="561.9" y="686.3" font-size="16" font-weight="500" fill="#2b2a27">响</text>
+</svg>
